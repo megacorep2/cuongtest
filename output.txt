@@ -1,1 +1,7 @@
+Microsoft Windows [Version 10.0.19045.3803]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>cmd /k 
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
+C:\Users\iPMAC\source\repos\ConsoleApp1\ConsoleApp1\bin\x64\Release\net8.0>
